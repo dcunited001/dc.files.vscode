@@ -1,0 +1,33 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.cwd": "/Users/dc/",
+    //   "terminal.integrated.shellArgs.osx": [
+    //     "-l"
+    //   ],
+    "terminal.integrated.fontFamily": "DejaVu Sans Mono for Powerline",
+    "terminal.integrated.fontSize": 12,
+    "vsicons.projectDetection.disableDetect": true,
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 1,
+    "editor.tabSize": 2,
+    /* beautifyjs */
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    /* word-wrap */
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 81,
+    "rewrap.autoWrap.enabled": true,
+    "rewrap.wrappingColumn": 80,
+    "[markdown]": {
+        // "editor.wordWrap": "off",
+        // "editor.wordWrapColumn": 80,
+        "editor.wrappingIndent": "same",
+        "editor.rulers": [
+            80
+        ]
+    }
+}
